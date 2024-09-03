@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+.timer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-size: 500%;
+    font-family: monospace;
+    color: white;
+}
